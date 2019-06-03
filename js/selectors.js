@@ -1,4 +1,4 @@
 // declare your functions here...
 function paragaphSelector(){
-  return $('p');
+  var arr = $('p');
 }
